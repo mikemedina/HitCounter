@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>HitCounter</name>
+    <directory>hitcounter</directory>
+    <id>837559938</id>
+    <description>Displays a running total of the number of times the player has taken damage</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Tweaks"/>
+</metadata>
